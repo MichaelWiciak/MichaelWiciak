@@ -23,7 +23,7 @@ I am a passionate software engineer with a strong background in full stack web d
 #### Project 2: Sports Centre System (retired)
 - Description: Developed a task management application that enables users to create, assign, and track tasks within a team. Implemented real-time updates using WebSockets and integrated with third-party APIs for email notifications.
 - Technologies: Angular, Django, PostgreSQL
-- GitHub Repository: [Link]([https://github.com/username/project2](https://github.com/uol-feps-soc-comp2913-2223s2-classroom/project-squad13))
+- GitHub Repository: [Link](https://github.com/uol-feps-soc-comp2913-2223s2-classroom/project-squad13)
 
 ### Experience
 
