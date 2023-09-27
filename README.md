@@ -3,44 +3,38 @@
 ## Year 3 student pursuing BSc (Hons) in Computer Science with AI at the University of Leeds 
 
 ### About Me
-I am a passionate software engineer with a strong background in full stack web development. I love building innovative and efficient solutions to complex problems. With experience in both front-end and back-end development, I strive to create robust and scalable applications that deliver exceptional user experiences.
+Co-founder of TimetableX (https://timetablex.com).
+Third-year undergraduate computer science with artificial intelligence student at the University of Leeds.
 
 ### Skills
-- Programming Languages: Python, Java, C, C++, JavaScript
-- Front-end Technologies: HTML5, CSS3, React (in progress)
-- Back-end Technologies: Node.js, Express.js, (both in progress
-- Databases: MySQL, MongoDB (both in progress)
+- Programming Languages: Python, Java, C, C++, JavaScript, TypeScript
+- Front-end Technologies: HTML5, CSS3, React 
+- Back-end Technologies: Node.js, Express.js
+- Databases: MySQL, MongoDB
 - Version Control: Git, GitHub, GitLab
 - Deployment: Vercel
 
 ### Projects
 
 #### Project 1: TimetableX
-- Description: TBC
-- Technologies: TBC
-- GitHub Repository: [Link](https://github.com/username/project1)
+- Description: A scheduler app designed for the University of Leeds students to accommodate every lecture, coursework and assessment all in one place. Providing a clearer UI than the University Systems and additional features which simplify planning. I hope I will be able to expand this project to more Universities and later generalise it so that anyone can use it for any scheduling needs. 
+- Technologies: Node.js, TypeScript, MongoDB, Vercel and others.
+- GitHub Repository: [Link](https://github.com/username/project1) (waiting for Felix to put it into a repo)
 
 #### Project 2: Sports Centre System (retired)
-- Description: Developed a task management application that enables users to create, assign, and track tasks within a team. Implemented real-time updates using WebSockets and integrated with third-party APIs for email notifications.
-- Technologies: Angular, Django, PostgreSQL
-- GitHub Repository: [Link](https://github.com/uol-feps-soc-comp2913-2223s2-classroom/project-squad13)
+- Description: 
+- Technologies: TypeScript, Python, Docker, PostgreSQL, Next.js, TailwindCSS, JsonWebTokens, Prisma
+- GitHub Repository: [Link](https://github.com/MichaelWiciak/SportsCentreManagementSystem)
 
-### Experience
+### Experience and Education
 
-#### TBC
-- TBC
-
-### Education
-
-- TBC
+Please look at my LinkedIn page.
 
 ### Contact Me
 - Email: githubmichaelw@gmail.com
-- LinkedIn: [Profile Link](https://www.linkedin.com/in/michael-wiciak-3b4666224/)
-- Portfolio: [Website Link](TBC)
 
 ### Additional Information
-- Languages: English (Fluent), Polish (Fluent), Chinese (Basics)
+- Languages: English (Fluent), Polish (Fluent)
 
 ---
 
