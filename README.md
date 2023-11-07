@@ -3,7 +3,7 @@
 ## Year 3 student pursuing BSc (Hons) in Computer Science with AI at the University of Leeds 
 
 ### About Me
-Co-founder of TimetableX (https://timetablex.com).
+Founder of TimetableX (https://timetablex.com).
 Third-year undergraduate computer science with artificial intelligence student at the University of Leeds.
 
 ### Skills
@@ -19,12 +19,14 @@ Third-year undergraduate computer science with artificial intelligence student a
 #### Project 1: TimetableX
 - Description: A scheduler app designed for the University of Leeds students to accommodate every lecture, coursework and assessment all in one place. Providing a clearer UI than the University Systems and additional features which simplify planning. I hope I will be able to expand this project to more Universities and later generalise it so that anyone can use it for any scheduling needs. 
 - Technologies: Node.js, TypeScript, MongoDB, Vercel and others.
-- GitHub Repository: [Link](https://github.com/username/project1) (waiting for Felix to put it into a repo)
+- GitHub Repository: currently private, please check back later :(
+- Available at: [Link](https://timetablex.com/)
 
 #### Project 2: Sports Centre System (retired)
 - Description: 
 - Technologies: TypeScript, Python, Docker, PostgreSQL, Next.js, TailwindCSS, JsonWebTokens, Prisma
 - GitHub Repository: [Link](https://github.com/MichaelWiciak/SportsCentreManagementSystem)
+- Available at: [Link](https://sports.feli.page/)
 
 ### Experience and Education
 
