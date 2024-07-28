@@ -1,10 +1,10 @@
 # Michael Wiciak
 
-## Year 3 student pursuing BSc (Hons) in Computer Science with AI at the University of Leeds 
+## Year 4 student pursuing MEng BSc (Hons) in Computer Science with AI at the University of Leeds 
 
 ### About Me
 Founder of TimetableX (https://timetablex.com).
-Third-year undergraduate computer science with artificial intelligence student at the University of Leeds.
+Fourth-year undergraduate computer science with artificial intelligence student at the University of Leeds.
 
 ### Skills
 - Programming Languages: Python, Java, C, C++, JavaScript, TypeScript
