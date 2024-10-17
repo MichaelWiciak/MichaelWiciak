@@ -1,43 +1,15 @@
-# Michael Wiciak
+# Welcome to My GitHub!
 
-## Year 4 student pursuing MEng BSc (Hons) in Computer Science with AI at the University of Leeds 
+Hey there! I'm Michael Wiciak, your friendly neighborhood software enthusiast. 🎉 If you're as passionate about diving into complex problems as I am, you’re in the right place! Whether it’s coding up innovative solutions, fine-tuning machine learning models, or hacking together something cool for a group project, I thrive on challenges.
 
-### About Me
-Founder of TimetableX (https://timetablex.com).
-Fourth-year undergraduate computer science with artificial intelligence student at the University of Leeds.
+As I prepare to graduate with a degree in **Computer Science with Artificial Intelligence** from the **University of Leeds**, my playground is full of exciting projects. From developing an app that automates badminton court bookings (because why not make life easier?) to creating a nifty scheduler that helps students juggle deadlines, I've been busy building tools that make a difference.
 
-### Skills
-- Programming Languages: Python, Java, C, C++, JavaScript, TypeScript
-- Front-end Technologies: HTML5, CSS3, React 
-- Back-end Technologies: Node.js, Express.js
-- Databases: MySQL, MongoDB
-- Version Control: Git, GitHub, GitLab
-- Deployment: Vercel
+Oh, did I mention I co-founded **TimetableX**? This project has helped hundreds of students keep their coursework organized while I flexed my React and TypeScript skills—what a ride! 🚀
 
-### Projects
+When I’m not immersed in code, you can find me teaching others how to solder RC cars, casually speaking Polish or basic Chinese (just for fun), or playing badminton. I’m so committed that I’ve even built tools to book the courts automatically—yes, I’m that dedicated!
 
-#### Project 1: TimetableX
-- Description: A scheduler app designed for the University of Leeds students to accommodate every lecture, coursework and assessment all in one place. Providing a clearer UI than the University Systems and additional features which simplify planning. I hope I will be able to expand this project to more Universities and later generalise it so that anyone can use it for any scheduling needs. 
-- Technologies: Node.js, TypeScript, MongoDB, Vercel and others.
-- GitHub Repository: currently private, please check back later :(
-- Available at: [Link](https://timetablex.com/)
+I’m proficient in Python, C, C++, and a handful of other languages. Got a new language you want to challenge me with? Bring it on! 💪
 
-#### Project 2: Sports Centre System (retired)
-- Description: 
-- Technologies: TypeScript, Python, Docker, PostgreSQL, Next.js, TailwindCSS, JsonWebTokens, Prisma
-- GitHub Repository: [Link](https://github.com/MichaelWiciak/SportsCentreManagementSystem)
-- Available at: [Link](https://sports.feli.page/)
+For detailed descriptions of each project and how they work, hop on over to my website: [michaewiciak.com](http://michaewiciak.com)! Dive in, explore, and let’s chase something new together—whether it’s a coding challenge, a cool project idea, or simply learning how to work smarter.
 
-### Experience and Education
-
-Please look at my LinkedIn page.
-
-### Contact Me
-- Email: githubmichaelw@gmail.com
-
-### Additional Information
-- Languages: English (Fluent), Polish (Fluent)
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project. Let's build something amazing together!
+Happy coding! ✨
