@@ -10,6 +10,6 @@ When I’m not immersed in code, you can find me teaching others how to solder R
 
 I’m proficient in Python, C, C++, and a handful of other languages. Got a new language you want to challenge me with? Bring it on! 💪
 
-For detailed descriptions of each project and how they work, hop on over to my website: [michaewiciak.com](http://michaewiciak.com)! Dive in, explore, and let’s chase something new together—whether it’s a coding challenge, a cool project idea, or simply learning how to work smarter.
+For detailed descriptions of each project and how they work, hop on over to my website: [michaewiciak.com](http://michaelwiciak.com)! Dive in, explore, and let’s chase something new together—whether it’s a coding challenge, a cool project idea, or simply learning how to work smarter.
 
 Happy coding! ✨
