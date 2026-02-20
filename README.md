@@ -1,4 +1,4 @@
-#G'day!
+# G'day!
 
 I am a Graduate Software Engineer at Lloyds Banking Group with a First-Class MEng BSc in Computer Science from the University of Leeds. 
 
