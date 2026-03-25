@@ -6,5 +6,4 @@
 <a href="www.linkedin.com/in/michaelwiciak
 " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://komarev.com/ghpvc/?username=MichaelWiciak&color=brightgreen" alt="watching_count" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MichaelWiciak.MichaelWiciak)
 [![Codewars Badge](https://www.codewars.com/users/MichaelWiciak/badges/large)](https://www.codewars.com/users/MichaelWiciak)
