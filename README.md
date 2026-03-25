@@ -1,4 +1,7 @@
-<a href="https://www.codewars.com/users/MichaelWiciak"><img src="https://www.codewars.com/users/MichaelWiciak/badges/micro" alt="Codewars"></a>
+<div align="center">
+<a href="https://www.codewars.com/users/MichaelWiciak"><img src="https://www.codewars.com/users/MichaelWiciak/badges/large" alt="Codewars"></a>
+</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWiciak&theme=tokyonight" alt="mystreak"/>
 </div>
