@@ -17,6 +17,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWiciak&theme=tokyonight" alt="mystreak"/>
 </div>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
