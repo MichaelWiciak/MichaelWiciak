@@ -17,17 +17,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWiciak&theme=tokyonight" alt="mystreak"/>
 </div>
 
-name: Update README cards
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
