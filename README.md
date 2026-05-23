@@ -16,3 +16,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWiciak&theme=tokyonight" alt="mystreak"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWiciak&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
