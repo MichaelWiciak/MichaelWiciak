@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=MichaelWiciak&color=brightgreen" alt="watching_count" />
 </p>
 
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
 <div align="center">
 <a href="https://www.codewars.com/users/MichaelWiciak"><img src="https://www.codewars.com/users/MichaelWiciak/badges/large" alt="Codewars"></a>
 </div>
@@ -17,6 +21,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWiciak&theme=tokyonight" alt="mystreak"/>
 </div>
 
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
+
